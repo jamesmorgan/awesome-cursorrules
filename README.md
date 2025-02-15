@@ -189,6 +189,7 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 - [TypeScript (Node.js, Next.js App)](./rules/typescript-nodejs-nextjs-app-cursorrules-prompt-fi/.cursorrules)
 - [TypeScript (React)](./rules/typescript-react-cursorrules-prompt-file/.cursorrules)
 - [TypeScript (Clasp App Script)](./rules/typescript-clasp-cursorrules-prompt-file/.cursorrules)
+- [Solidity (Common ERC Standards)](./rules/core-eip-standards-file/.cursorrules)
 
 ### Other
 - [ASCII Simulation Game](./rules/ascii-simulation-game-cursorrules-prompt-file/.cursorrules)
